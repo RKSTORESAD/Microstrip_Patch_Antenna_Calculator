@@ -42,7 +42,7 @@ header small {
 header h1 {
   font-size: 24px;
   font-weight: 600;
-  color: var(--ac);
+  color: var(--tx);
   margin-top: 4px;
 }
 
